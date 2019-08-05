@@ -11,4 +11,5 @@ public interface InterestService {
     void removeInterest(User u,Dept d);
     List<String> showInterest(User u);
     showfeed(User u);
+    //rtet
 }
